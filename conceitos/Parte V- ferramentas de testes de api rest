@@ -1,13 +1,9 @@
 É possível validar as APIs REST utilizando de diversas ferramentas, algumas das principais são: 
 
-RestAssured:
-RestAssured é uma biblioteca em Java dedicada à automação de testes. Ela foi desenvolvida para simplificar a criação de testes automatizados para APIs REST, oferecendo suporte para validação de protocolo HTTP e requisições em JSON. Além disso, fornece amplas opções para validar requisições, incluindo Status Code, Headers e elementos do Body, tornando-se uma ferramenta altamente flexível para criação de testes automatizados de API.
+RestAssured: É uma biblioteca em Java dedicada à automação de testes. Ela foi desenvolvida para simplificar a criação de testes automatizados para APIs REST, oferecendo suporte para validação de protocolo HTTP e requisições em JSON. Além disso, fornece amplas opções para validar requisições, incluindo Status Code, Headers e elementos do Body, tornando-se uma ferramenta altamente flexível para criação de testes automatizados de API.
 
-Postman:
-Postman é uma ferramenta para testar APIs, permitindo criar e executar testes automatizados para validar respostas da API. Além disso, possibilita a criação automática de documentação. O Postman facilita a colaboração entre equipes e pode ser integrado com outras ferramentas de desenvolvimento.
+Postman: É uma ferramenta para testar APIs, permitindo criar e executar testes automatizados para validar respostas da API. Além disso, possibilita a criação automática de documentação. O Postman facilita a colaboração entre equipes e pode ser integrado com outras ferramentas de desenvolvimento.
 
-Insomnia:
-O Insomnia auxilia a simplificar o processo de teste, depuração, documentação e colaboração em torno de APIs REST e GraphQL. Ele fornece uma interface de usuário intuitiva e amigável que permite criar, organizar e executar solicitações HTTP de forma eficiente.
+Insomnia: Ajuda a simplificar o processo de teste, depuração, documentação e colaboração em torno de APIs REST e GraphQL. Ele fornece uma interface de usuário intuitiva e amigável que permite criar, organizar e executar solicitações HTTP de forma eficiente.
 
-Swagger:
-Swagger é utilizado para documentar APIs, fornecendo um padrão na escrita e descrição dessas APIs. Além de servir como documentação, pode ser utilizado ao realizar técnicas de revisões, permitindo a análise detalhada dos endpoints, parâmetros e respostas. Sua utilização facilita a manutenção e evolução das APIs.
+Swagger: É utilizado para documentar APIs, fornecendo um padrão na escrita e descrição dessas APIs. Além de servir como documentação, pode ser utilizado ao realizar técnicas de revisões, permitindo a análise detalhada dos endpoints, parâmetros e respostas. Sua utilização facilita a manutenção e evolução das APIs.
