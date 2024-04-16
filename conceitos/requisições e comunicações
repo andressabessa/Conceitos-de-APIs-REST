@@ -1,0 +1,8 @@
+Ao abordarmos a arquitetura REST, estamos nos referindo a uma forma de comunicação entre sistemas. Para que essa comunicação ocorra, é necessário que um cliente envie uma requisição ao servidor para enviar ou modificar dados.
+
+Essa requisição consiste nos seguintes elementos:
+
+Método HTTP: Este define o tipo de operação que o servidor deverá realizar.
+URI: Esta é a rota ou caminho que o cliente seguirá para se comunicar com o servidor.
+O cabeçalho (header): Ele fornece informações adicionais sobre a requisição.
+Corpo da requisição: Este contém os dados que serão enviados ao servidor, quando necessário.
