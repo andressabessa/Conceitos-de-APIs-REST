@@ -1,0 +1,30 @@
+Os métodos HTTP são verbos que definem a ação a ser realizada em um recurso específico em um servidor. Alguns dos métodos mais comuns são:
+
+#Método POST:
+Este método é comumente utilizado para adicionar um novo recurso, embora não esteja limitado apenas a essa função. Por exemplo, ele pode ser utilizado para operações como login.
+O POST é conhecido por trafegar informações de maneira mais segura. Por isso, ocasionalmente é utilizado para outros fins, aproveitando sua capacidade de permitir o envio de uma quantidade maior de dados dentro da requisição.
+
+#Método GET:
+Este método pode ser utilizado basicamente de três formas:
+1. Utilizado para apontar para um recurso específico e trazer todos os recursos disponíveis para aquele usuário.
+2. Utilizado para buscar apenas um recurso específico.
+3. Utilizado para buscar vários recursos, com a possibilidade de aplicar filtros com base em algumas características do recurso que está sendo buscado.
+Em resumo, o método GET é utilizado para buscar uma ou várias informações relacionadas a um recurso específico.
+
+#Método PUT:
+Este método é utilizado para alterar um recurso existente. É uma das formas de realizar edições em uma API REST, permitindo a modificação de um recurso já existente.
+
+#Método DELETE:
+Este método é utilizado para excluir um recurso existente. Se um recurso válido é especificado na requisição, ele será removido do servidor.
+
+#Pontos importantes:
+
+Quando falamos de API REST, algo que é muito comum ouvirmos é o termo "STATUS CODE" ou "HTTP status code", que indicam o resultado do processamento da requisição.
+Existem cinco faixas de valores para os códigos de status HTTP:
+
+A faixa dos 100, que são os códigos relacionados a informações.
+A faixa dos 200, que são os códigos relacionados a sucesso.
+A faixa dos 300, que são os códigos relacionados a redirecionamentos.
+A faixa dos 400, que são os códigos relacionados a erros provenientes do cliente que está utilizando a aplicação.
+A faixa dos 500, que são os códigos relacionados a erros no servidor.
+Essas são as faixas de valores dos códigos de status HTTP. Portanto, existem diversos códigos de status HTTP que podem ser utilizados em resposta a requisições que encontram erros.
