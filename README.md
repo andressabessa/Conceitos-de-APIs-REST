@@ -1,6 +1,6 @@
 <h1 align="center"> Conceitos de APIs REST </h1>
 
-Este repositório tem como objetivo fornecer uma introdução aos conceitos relacionados às APIs REST. Além disso, poderá auxiliar os QAs e outros profissionais que estão iniciando seus estudos sobre APIs REST. Aqui você encontrará informações sobre conceitos fundamentais, como recursos, URIs, métodos HTTP, tipos e testes aplicadas às APIs e sugestões de ferramentas para realização dos testes. 
+Este repositório tem como objetivo fornecer uma introdução aos conceitos relacionados às APIs REST. Além disso, poderá auxiliar QAs e outros profissionais que estão iniciando seus estudos sobre essa temática. Aqui você encontrará informações sobre conceitos fundamentais, como recursos, URIs, métodos HTTP, tipos e testes aplicadas às APIs e sugestões de ferramentas para realização dos testes. 
 
   <h3>Conteúdos</h3>
   
