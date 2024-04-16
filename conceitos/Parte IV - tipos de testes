@@ -1,0 +1,8 @@
+Existem diferentes tipos de testes que podem ser realizados em uma API REST, seja para garantir seu desempenho, confiabilidade e/ou segurança. Alguns dos tipos mais comuns são:
+
+Teste de carga: Neste teste, podemos avaliar como a API se comporta sob cargas de trabalho pesadas e por longos períodos.
+Testes de contrato: Podemos verificar se os contratos da API estão sendo respeitados.
+Teste de desempenho: Nele conseguimos verificar o desempenho da API.
+Testes de regressão: Este teste serve para verificarmos se as alterações no código não quebram funcionalidades existentes.
+Testes de Segurança: Avaliam a segurança da API, procurando por vulnerabilidades, como injeção de SQL.
+Testes de Aceitação: Verificam se a API atende aos requisitos de negócios e às expectativas dos usuários finais. Garantem que a API esteja entregando os resultados esperados para os diferentes cenários de uso.
